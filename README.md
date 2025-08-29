@@ -16,8 +16,6 @@
 ### 🚀 How To Run
 ###### Clone repo
 git clone https://github.com/sagarmamidala24/ID-card-Mini-Project-Using-IP.git
-https://github.com/sagarmamidala24/ID-card-Mini-Project-Using-IP/blob/main/ID.ipynb
-
 ###### Install reqs
 pip install opencv-python numpy
 ###### Run it
