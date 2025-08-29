@@ -15,8 +15,8 @@
 
 ### 🚀 How To Run
 ###### Clone repo
-git clone https://github.com/your-username/id-card-generator.git
-cd id-card-generator
+git clone https://github.com/sagarmamidala24/ID-card-Mini-Project-Using-IP.git
+
 ###### Install reqs
 pip install opencv-python numpy
 ###### Run it
